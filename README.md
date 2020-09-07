@@ -1,1 +1,1 @@
-# paint-js
+# Draw your masterpiece 🎨
